@@ -25,7 +25,7 @@ public class TimeAList {
         AList<Integer> a = new AList<>();
         AList<Double> b = new AList<>();
         AList<Integer> b1 = new AList<>();
-        int[] w = new int[]{1000,2000,4000,8000,16000,32000};
+        int[] w = new int[]{1000,2000,4000,8000,16000,32000,64000};
 
         for(int i=0;i<w.length;i++){
             int sum = 0;

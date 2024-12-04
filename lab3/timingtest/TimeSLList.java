@@ -26,7 +26,7 @@ public class TimeSLList {
         AList<Double> b = new AList<>();
         AList<Integer> t = new AList<>();
         AList<Integer> t1 = new AList<>();
-        int[] l = new int[]{1000,2000,4000,8000,16000,32000};
+        int[] l = new int[]{1000,2000,4000,8000,16000,32000,64000};
 
 
         for(int i=0;i<l.length;i++){
